@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+dist
+
+yarn-error.log*
+yarn-debug.log*
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# genrated by chatgpt
+temp
+download
